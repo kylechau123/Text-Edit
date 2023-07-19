@@ -1,0 +1,4 @@
+# Text Editor
+
+## Description
+This text editor page is a program that is available to use both online and offline. It allows developers to write code or notes that can be easily retrieved at a later date even if they were disconnected from the internet. This application also has the functionality to install itself as a Progressive Web Applications (PWA) for offline usage. To start, just grabe the code and start it up in the terminal using the npm start command and from there you open up your browser and go to http://localhost:<PORT>  (note: replace <PORT> with the port number your server is running on, e.g., http://localhost:3000).
